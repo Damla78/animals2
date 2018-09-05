@@ -1,0 +1,6 @@
+lion
+cat
+dog
+bird
+crocodile
+turtle
